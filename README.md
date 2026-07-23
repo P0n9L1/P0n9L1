@@ -1,15 +1,6 @@
 # Дмитрий Шишов
 
-Data Scientist / ML Engineer (Junior)
-
-## Контактная информация
-
-- Telegram: [@P0n9L](https://t.me/P0n9L)
-- GitHub: [P0n9L1](https://github.com/P0n9L1)
-
-## Обо мне
-
-Студент 4 курса РЭУ им. Г.В. Плеханова (менеджмент товаров) и DS/ML-трека School 21. Развиваюсь в направлении Data Science и Machine Learning: от EDA и классического ML до построения end-to-end пайплайнов. Цель — построить карьеру в ML-инженерии и поступить в магистратуру ВШЭ ФКН (Data Science).
+Data Scientist / ML Engineer
 
 ## Стек технологий
 
