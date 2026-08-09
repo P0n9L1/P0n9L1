@@ -1,6 +1,10 @@
 # Дмитрий Шишов
 
-Data Scientist / ML Engineer
+**Data Scientist / ML Engineer (Junior)**
+
+Москва | Telegram: [@P0n9L](https://t.me/P0n9L) | Портфолио: [p0n9l1.github.io](https://p0n9l1.github.io/P0n9L1/)
+
+---
 
 ## Стек технологий
 
@@ -8,17 +12,23 @@ Data Scientist / ML Engineer
 |-----------|-----------|
 | **Языки** | Python 3, Bash/Shell, SQL |
 | **Data Science** | Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn, Plotly |
-| **ML** | scikit-learn, LightGBM (Linear/Logistic Regression, Ridge, Lasso, ElasticNet, SVM, Decision Tree, Random Forest, KNN, Voting/Bagging/Stacking) |
-| **Валидация** | K-Fold, Group K-Fold, Stratified K-Fold, TimeSeriesSplit, Grid Search, Optuna |
+| **ML — Supervised** | Linear/Ridge/Lasso/ElasticNet, Logistic Regression, Naive Bayes, KNN, SVM (Linear/RBF), CART, Random Forest, ExtraTrees, GBDT, XGBoost, LightGBM, CatBoost, MLP (с нуля) |
+| **ML — Unsupervised** | K-means, DBSCAN, Agglomerative, GMM + EM, PCA, SVD, NMF, t-SNE, UMAP, LLE |
+| **Валидация** | K-Fold, Group/Stratified K-Fold, TimeSeriesSplit, Grid Search, Randomized Search, Optuna (Bayesian) |
+| **Метрики** | MAE, RMSE, R², MAPE, Precision, Recall, F1, ROC-AUC, PR AUC, Gini, LogLoss, Silhouette Score |
 | **Feature Selection** | Lasso, permutation importance, SHAP |
-| **Инженерные практики** | PyTest, Git, Docker, REST API, BeautifulSoup, cProfile |
+| **Инженерные практики** | PyTest, Git, Docker, REST API, BeautifulSoup, cProfile, virtualenv |
 
 ## Проекты
 
-- [**Food & Nutrition**](https://github.com/P0n9L1/food-nutrition-ds) — End-to-end DS pipeline: EDA, ансамблевые модели, USDA API, CLI-приложение
-- [**Линейная регрессия и регуляризация**](https://github.com/P0n9L1/linear-regression-ml) — Реализация LR/Ridge/Lasso/ElasticNet с нуля, сравнение со sklearn
+- [**Food & Nutrition**](https://github.com/P0n9L1/food-nutrition-ds) — End-to-end DS pipeline: EDA, ансамблевые модели (Voting, Bagging, Stacking), USDA FoodData Central API, CLI-приложение для генерации меню
+- [**Линейная регрессия и регуляризация**](https://github.com/P0n9L1/linear-regression-ml) — Реализация LR/Ridge/Lasso/ElasticNet с нуля (SGD + аналитическое решение), сравнение со sklearn, MLE/MAP
+- **Классификация** — Logistic Regression, Naive Bayes, KNN, SVM; метрики с нуля (Precision, Recall, F1, ROC-AUC, PR AUC, Gini, LogLoss)
+- **Деревья и ансамбли** — CART → Random Forest → ExtraTrees → GBDT (с нуля) → XGBoost/LightGBM/CatBoost; DART, early stopping
+- **Кластеризация** — K-means (с нуля), DBSCAN, Agglomerative, GMM + EM; кластерные метки как признаки для Lasso
+- **Нейронные сети** — MLP с нуля: forward/backward pass, ReLU/Sigmoid/tanh/Cosine, Adam/SGD, Xavier/He init
 
 ## Образование
 
-- **РЭУ им. Г.В. Плеханова** — Бакалавриат, Менеджмент товаров (2023–2027)
-- **School 21 (Сбер)** — DS/ML Bootcamp (2026–настоящее время)
+- **РЭУ им. Г.В. Плеханова** — Бакалавриат, Менеджмент товаров (2023–2027), GPA 4.0
+- **School 21 (Сбер)** — DS/ML Bootcamp (2026–наст.), модули ML1–ML8
