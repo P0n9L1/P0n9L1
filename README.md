@@ -23,9 +23,10 @@
 
 - [**Food & Nutrition**](https://github.com/P0n9L1/food-nutrition-ds) — End-to-end DS pipeline: EDA, ансамблевые модели (Voting, Bagging, Stacking), USDA FoodData Central API, CLI-приложение для генерации меню
 - [**Линейная регрессия и регуляризация**](https://github.com/P0n9L1/linear-regression-ml) — Реализация LR/Ridge/Lasso/ElasticNet с нуля (SGD + аналитическое решение), сравнение со sklearn, MLE/MAP
+- [**Decision Trees & Ensembles**](https://github.com/P0n9L1/decision-trees-ensembles) — CART → Random Forest → ExtraTrees → GBDT (с нуля) → XGBoost/LightGBM/CatBoost; DART, early stopping
+- [**Clustering**](https://github.com/P0n9L1/clustering-ml) — K-means (с нуля), DBSCAN, Agglomerative, GMM + EM; кластерные метки как признаки для Lasso
+- [**Dimensionality Reduction**](https://github.com/P0n9L1/dimensionality-reduction) — PCA, SVD, NMF, t-SNE, UMAP, LLE; сжатие изображений, визуализация
 - **Классификация** — Logistic Regression, Naive Bayes, KNN, SVM; метрики с нуля (Precision, Recall, F1, ROC-AUC, PR AUC, Gini, LogLoss)
-- **Деревья и ансамбли** — CART → Random Forest → ExtraTrees → GBDT (с нуля) → XGBoost/LightGBM/CatBoost; DART, early stopping
-- **Кластеризация** — K-means (с нуля), DBSCAN, Agglomerative, GMM + EM; кластерные метки как признаки для Lasso
 - **Нейронные сети** — MLP с нуля: forward/backward pass, ReLU/Sigmoid/tanh/Cosine, Adam/SGD, Xavier/He init
 
 ## Образование
