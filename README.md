@@ -24,7 +24,7 @@
 ## Проекты
 
 - [**Люси — голосовой ассистент**](https://github.com/P0n9L1/lucy-voice-assistant) — Qwen2.5-1.5B, дообученная QLoRA под tool-calling; полный пайплайн push-to-talk → Vosk (STT) → LLM (GGUF, CUDA) → агентский цикл → pyttsx3 (TTS)
-- [**MLP Implementation**](https://github.com/P0n9L1/mlp-implementation) — многослойный перцептрон на PyTorch для регрессии на табличных данных
+- [**MLP Implementation**](https://github.com/P0n9L1/mlp-implementation) — собственная имплементация двухслойной сети для табличных данных
 - [**CNN Image Classification**](https://github.com/P0n9L1/cnn-image-classification) — свёрточная сеть на PyTorch, многоклассовая классификация изображений (AUROC)
 - [**Food & Nutrition**](https://github.com/P0n9L1/food-nutrition-ds) — End-to-end DS pipeline: EDA, ансамблевые модели (Voting, Bagging, Stacking), USDA FoodData Central API, CLI-приложение для генерации меню
 - [**Линейная регрессия и регуляризация**](https://github.com/P0n9L1/linear-regression-ml) — Реализация LR/Ridge/Lasso/ElasticNet с нуля (SGD + аналитическое решение), сравнение со sklearn, MLE/MAP
