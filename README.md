@@ -2,7 +2,7 @@
 
 **Data Scientist / ML Engineer (Junior)**
 
-Москва | Telegram: [@P0n9L](https://t.me/P0n9L) | Портфолио: [p0n9l1.github.io](https://p0n9l1.github.io/P0n9L1/)
+Москва | Telegram: [@P0n9L](https://t.me/P0n9L) 
 
 ---
 
@@ -32,4 +32,4 @@
 ## Образование
 
 - **РЭУ им. Г.В. Плеханова** — Бакалавриат, Менеджмент товаров (2023–2027), GPA 4.0
-- **School 21 (Сбер)** — DS/ML Bootcamp (2026–наст.), модули ML1–ML8
+- **School 21 (Сбер)** — DS/ML (2026–наст.)
